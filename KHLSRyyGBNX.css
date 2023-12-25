@@ -55,8 +55,7 @@ input, textarea {
     border-width: 2px;
     background-color: black;
     width: 100%;
-    padding: 8px;
-    margin-bottom: 16px;
+    padding: 10px;
     box-sizing: border-box;
 }
 
@@ -85,3 +84,23 @@ footer {
     text-align: center;
     margin-top: 20px;
 }
+.learn {
+    text-align: left;
+    font-size: 75%;
+    color: #ffffff;
+    cursor: pointer;
+    font-weight: bold;
+    display: block;
+}
+.learn2 {
+text-decoration: none;
+color: #5865F2;
+cursor: pointer;
+font-weight: bold;
+}
+.learn2:hover {
+    text-decoration: underline;
+    color: #5865F2;
+    cursor: pointer;
+    font-weight: bold;
+    }
